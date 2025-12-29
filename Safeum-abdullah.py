@@ -1,4 +1,3 @@
-‎#ARNOLD TELEGRM YEITECHMONTO01 youtube yei tech monto
 ‎import os
 ‎import time
 ‎import sys
